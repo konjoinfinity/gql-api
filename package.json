@@ -1,0 +1,8 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "gql practice",
+  "main": "index.js",
+  "author": "Wesley Scholl <clients@konjoweb.com>",
+  "license": "MIT"
+}
