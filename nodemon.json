@@ -1,0 +1,5 @@
+{
+    "env": {
+        "MONGO_URI": "mongodb+srv://konjo:a3xu0KNxqaNNNjMM@cluster0.bt5mkma.mongodb.net/?retryWrites=true&w=majority"
+    }
+}
